@@ -6,6 +6,14 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Killer Shoes",
-  "start_url": "/",
-  "theme_color": "#ffffff"
+  "start_url": "/https://killer-shoes.vercel.app/",
+  "theme_color": "#ffffff",
+  "categories": [
+    "fitness",
+    "games",
+    "kids",
+    "shopping",
+    "sports",
+    "travel"
+  ]
 }
