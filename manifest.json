@@ -1,0 +1,11 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Killer Shoes",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Killer Shoes",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
